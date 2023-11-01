@@ -60,8 +60,9 @@
   \setotherlanguage{english}
 
   % СТП-2017 пункт 2.1.1
-  % Устанавливаем основным шрифтом системный Times new Roman
-  \setmainfont{Times New Roman}
+  % Устанавливаем основным шрифтом системный OpenGost Type A TT
+  \setmainfont{OpenGost Type A TT}
+
   % Выставляем в качестве моноширинного шрифта системный Courier
   \setmonofont{Courier New}
   \providecommand{\No}{\textnumero}
