@@ -7,6 +7,7 @@
 %%% Эта штука выше нужна для емакса и auctex,
 %%% хотя я ещё auctex не особо пользовался
 
+
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{bsuir-spec}[2023/11/01 Class conforming to BSUIR standard]
 
