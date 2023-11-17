@@ -30,7 +30,7 @@
 \RequirePackage{eskdspec}
 
 % Добавляем polyglossia, с ним же добавиться fontspec и можем
-% использовать шрифт Times New Roman в XeLaTeX
+% использовать ttf шрифт в XeLaTeX
 % При том одним только fontspec не обойтись, потому что в
 % polyglossia ещё команда setdefaultlanguage, которая позволяет
 % установить русский язык в качестве основного, без чего
@@ -63,7 +63,6 @@
   % СТП-2017 пункт 2.1.1
   % Устанавливаем основным шрифтом системный OpenGost Type A TT
   \setmainfont{OpenGost Type A TT}
-
   % Выставляем в качестве моноширинного шрифта системный Courier
   \setmonofont{Courier New}
   \providecommand{\No}{\textnumero}
